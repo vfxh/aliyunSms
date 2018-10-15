@@ -1,4 +1,4 @@
-package sms
+package aliyunSms
 
 import (
 	"crypto/hmac"
